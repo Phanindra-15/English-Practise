@@ -1,0 +1,82 @@
+ 08-06-2022
+
+1.Finding a web developer job with no experience
+----------------------------------------------------------------
+* front end developers/web designer -HTML,CSS and some javascript
+
+*server side progrsmmers - php,python  and java.
+
+*full stack developer - front and backend development
+
+* All we should know is the basics of the programming languages
+
+firstly need to build your resume.
+-------------------------------------------------------------------
+introduction about yourself should me in a detailed and good manner
+resume should include our personal projects
+include your github account
+-------
+
+Build a Brand and WEB Presence:-
+-----------------------------------------------
+
+         choose a color scheme
+         create a logo
+         use social media
+          stay consistent
+
+
+NETWORKING:-
+-------------------------------
+1.online and social media- youtubers 
+2.Hackathons
+3.Meetups
+
+
+ONLINE RESOURCES:-
+-----------------------------
+Standard job boards
+profile based websites
+
+
+
+TIPS LEARNING HOW TO CODE
+-----------------------------------------------------
+how to remember all the code:
+                 1.Just need to understand then rememebering
+                 2.All code is different.
+                 3.Be an active learner like problem solving
+
+Take action:
+                     1. run the original code
+                     2.Understand every line
+                     3.Make and fix mistakes.
+
+STEP TO BE FOLLOWED
+
+1.code everyday
+2.learn something new every day.
+
+
+
+
+MUST KNOW WEB DEVELOPMENT TECH:-
+------------------------------------------------
+1.NEED TO LEARN HTML CSS AND JS basics
+2.Learn any one scripting languages deeply so thst it will improve our skills very good in one domain.
+
+
+Chrome extensions for web developers and web designers:
+------------------------------------------------------------------------
+
+javascript and css code buffer
+
+
+
+EMMET FOR HTML AND CSS
+
+Try to use atom for html and css with that install package named EMMET  
+
+this package  helps us to reduce the time taken and then it the coding will be very careful
+
+we can understand any errors easily using this then jusing notepaad and all the other softwares
