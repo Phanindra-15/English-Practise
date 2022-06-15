@@ -1,0 +1,15 @@
+
+
+
+                                   WIRITE    DOCUMENTATION     FIRST   THEN   BUILD   IT
+                                  -----------------------------------------------------------------------
+
+            In any development of an application or a product  or any other item mostly many people will directly involved in building the specific product.Acoording to me, this process is quite unnatural and i wont support it as we should know what we are going to build .
+ 
+
+          Suppose take a example of a civil engineer . when he got an order to build any specifc type of invention firstly he or she not just start the building of an application  .They make their ideas in a document like blueprint and with that idea they will move for further process.
+
+            In the same for any process firstly we need to build the documentation then we should build it . The main goal of this is we need to know the idea about what we are going to do so maintain a documentation of it then move on to the further process
+
+            So make a process of writing our ideas in document format rather than implementing them directly.It make us achieve our desired goal easily and very fastly  . It reduces time complexity that is been used by specific application.
+ 
